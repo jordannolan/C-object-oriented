@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1571712570 source:/home/nolan/Online_OO_ws/Scripts/Shapes/main.cpp
+	"Circle.h"
+	"Square.h"
+	"Rectangle.h"
+	"Cube.h"
+	"Cuboid.h"
+	<iostream>
+
+1565724318 /home/nolan/Online_OO_ws/BRIDGES/bridges3.0/include/Circle.h
+	"DataStructure.h"
+	"Symbol.h"
+	<vector>
+
+1565724318 /home/nolan/Online_OO_ws/BRIDGES/bridges3.0/include/DataStructure.h
+	<string>
+
+1565724318 /home/nolan/Online_OO_ws/BRIDGES/bridges3.0/include/Symbol.h
+	<string>
+	<vector>
+	<cmath>
+	"DataStructure.h"
+	"Color.h"
+
+1565724318 /home/nolan/Online_OO_ws/BRIDGES/bridges3.0/include/Color.h
+	<iostream>
+	<array>
+	<regex>
+	<unordered_map>
+	<cmath>
+	<sstream>
+	<iomanip>
+	"DataStructure.h"
+
+1565724318 /home/nolan/Online_OO_ws/BRIDGES/bridges3.0/include/Rectangle.h
+	"DataStructure.h"
+	"Symbol.h"
+	<vector>
+
+1571704806 source:/home/nolan/Online_OO_ws/Scripts/Shapes/src/Shape.cpp
+	"Shape.h"
+	<iostream>
+
+1571704778 /home/nolan/Online_OO_ws/Scripts/Shapes/include/Shape.h
+	<string>
+
+1571693492 source:/home/nolan/Online_OO_ws/Scripts/Shapes/src/myCircle.cpp
+	"myCircle.h"
+
+1571693492 /home/nolan/Online_OO_ws/Scripts/Shapes/include/myCircle.h
+	<Shape.h>
+
+1571755455 source:/home/nolan/Online_OO_ws/Scripts/Shapes/src/Circle.cpp
+	"Circle.h"
+	<iostream>
+
+1571758596 /home/nolan/Online_OO_ws/Scripts/Shapes/include/Circle.h
+	"Shape.h"
+
+1571710099 source:/home/nolan/Online_OO_ws/Scripts/Shapes/src/Square.cpp
+	"Square.h"
+	<iostream>
+
+1571705996 /home/nolan/Online_OO_ws/Scripts/Shapes/include/Square.h
+	<Shape.h>
+
+1571710564 source:/home/nolan/Online_OO_ws/Scripts/Shapes/src/Rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1571710704 /home/nolan/Online_OO_ws/Scripts/Shapes/include/Rectangle.h
+	<Square.h>
+
+1571711486 source:/home/nolan/Online_OO_ws/Scripts/Shapes/src/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1571711470 /home/nolan/Online_OO_ws/Scripts/Shapes/include/Cube.h
+	<Square.h>
+
+1571712384 source:/home/nolan/Online_OO_ws/Scripts/Shapes/src/Cuboid.cpp
+	"Cuboid.h"
+	<iostream>
+
+1571712401 /home/nolan/Online_OO_ws/Scripts/Shapes/include/Cuboid.h
+	<Rectangle.h>
+
+1571755805 source:/home/nolan/Online_OO_ws/Scripts/Shapes/src/Ellipse.cpp
+	"Ellipse.h"
+	<iostream>
+
+1571758585 /home/nolan/Online_OO_ws/Scripts/Shapes/include/Ellipse.h
+	<Circle.h>
+
+1571760948 source:/home/nolan/Online_OO_ws/Scripts/Shapes/src/Ellipsoid.cpp
+	"Ellipsoid.h"
+	<iostream>
+
+1571759108 /home/nolan/Online_OO_ws/Scripts/Shapes/include/Ellipsoid.h
+	<Ellipse.h>
+
